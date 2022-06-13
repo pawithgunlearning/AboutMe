@@ -2,4 +2,3 @@
 
 Food: Otao
 Address: Phuket
-Job: Engineer
